@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Youtube Videos</string>
+    <string name="video_thumbnail">video_thumbnail</string>
+    <string name="retry_for_more">Retry for More</string>
+    <string name="that_s_all_folks">That\'s all Folks!</string>
+    <string name="oops_something_went_wrong">Oops, Something Went Wrong</string>
+    <string name="you_re_all_caught_up">You\'re all caught up !</string>
+    <string name="retry">Retry</string>
+    <string name="something_went_wrong_please_try_again">Something went wrong, Please Try again</string>
+   <!-- <string name="hours_ago"> hours ago</string>-->
+    <string name="hours_ago">%1$d hours ago</string>
+    <string name="hour_ago">1 hour ago</string>
+    <string name="days_ago">%1$d days ago</string>
+    <string name="day_ago">1 day ago</string>
+    <string name="minutes_ago">%1$d minutes ago</string>
+    <string name="minute_ago">1 minute ago</string>
+    <string name="seconds_ago">%1$d seconds ago</string>
+</resources>
